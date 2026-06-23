@@ -1,3 +1,6 @@
+تمام يا سكاي ✨، أهو ملف README جاهز كوبي‑بيست بالفورمات اللي طلبتيه:
+
+```markdown
 # 📱 SMS / Email Spam Detector 🚀
 
 ## 📌 Project Description
@@ -17,15 +20,25 @@ Try the live app here:
    ```bash
    git clone https://github.com/Sky-abdelfatah/spam-or-ham
    cd spam-or-ham
+   ```
 
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
 
 3. Run the Streamlit app:
-  ```bash
-   streamlit run app.py .
+   ```bash
+   streamlit run app.py
+   ```
 
 ---
-## Dataset
- [dataset](https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset)
+
+## 📊 Used Dataset
+The model was trained on the **Spam Email Dataset** available on Kaggle:  
+[Spam Email Dataset](https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset)
+```
+
+---
+
+📌 كده تقدر تنسخي الملف زي ما هو وتحطيه في الريبو على GitHub باسم `README.md`.
