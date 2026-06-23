@@ -15,14 +15,16 @@ Try the live app here:
 ## ▶️ How to Run Locally (Commands)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sky-abdelfatah/Spam-detector
-   cd Spam-detector
+   git clone https://github.com/Sky-abdelfatah/spam-or-ham
+   cd spam-or-ham
 
 2.Install dependencies:
+ ```bash
 pip install -r requirements.txt
 
 3.Run the Streamlit app:
+ ```bash
 streamlit run app.py
 
 ## Used Dataset
-[data](https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset)
+[dataset](https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset)
