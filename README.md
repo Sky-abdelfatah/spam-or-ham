@@ -1,6 +1,4 @@
-تمام يا سكاي ✨، أهو ملف README جاهز كوبي‑بيست بالفورمات اللي طلبتيه:
 
-```markdown
 # 📱 SMS / Email Spam Detector 🚀
 
 ## 📌 Project Description
@@ -41,4 +39,3 @@ The model was trained on the **Spam Email Dataset** available on Kaggle:
 
 ---
 
-📌 كده تقدر تنسخي الملف زي ما هو وتحطيه في الريبو على GitHub باسم `README.md`.
