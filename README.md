@@ -18,11 +18,11 @@ Try the live app here:
    git clone https://github.com/Sky-abdelfatah/spam-or-ham
    cd spam-or-ham
 
-2.Install dependencies:
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
 
-3.Run the Streamlit app:
+3. Run the Streamlit app:
   ```bash
   streamlit run app.py
 
