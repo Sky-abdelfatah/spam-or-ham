@@ -24,7 +24,8 @@ Try the live app here:
 
 3. Run the Streamlit app:
   ```bash
-  streamlit run app.py
+   streamlit run app.py .
 
-## Used Dataset
-[dataset](https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset)
+---
+## Dataset
+ [dataset](https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset)
