@@ -19,12 +19,12 @@ Try the live app here:
    cd spam-or-ham
 
 2.Install dependencies:
- ```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3.Run the Streamlit app:
- ```bash
-streamlit run app.py
+  ```bash
+  streamlit run app.py
 
 ## Used Dataset
 [dataset](https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset)
